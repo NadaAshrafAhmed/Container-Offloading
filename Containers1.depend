@@ -1,0 +1,81 @@
+# depslib dependency file v1.0
+1451603290 source:c:\users\user-pc\desktop\containers1\capacity.cpp
+	"capacity.h"
+
+1451603289 c:\users\user-pc\desktop\containers1\capacity.h
+	<iostream>
+
+1451605598 source:c:\users\user-pc\desktop\containers1\container.cpp
+	"container.h"
+
+1451605598 c:\users\user-pc\desktop\containers1\container.h
+	"transportation.h"
+
+1451603290 c:\users\user-pc\desktop\containers1\transportation.h
+	<string>
+	<iostream>
+
+1451603290 source:c:\users\user-pc\desktop\containers1\heavy.cpp
+	"heavy.h"
+
+1451603290 c:\users\user-pc\desktop\containers1\heavy.h
+	"normal.h"
+
+1451603289 c:\users\user-pc\desktop\containers1\normal.h
+	"container.h"
+
+1451677613 source:c:\users\user-pc\desktop\containers1\main.cpp
+	"systems.h"
+	<algorithm>
+
+1451488628 c:\users\user-pc\desktop\containers1\system.h
+	<iostream>
+	"refrigerated.h"
+	"ship.h"
+	"train.h"
+	"truck.h"
+
+1451665114 c:\users\user-pc\desktop\containers1\ship.h
+	"capacity.h"
+
+1451603290 source:c:\users\user-pc\desktop\containers1\normal.cpp
+	"normal.h"
+
+1451603289 source:c:\users\user-pc\desktop\containers1\refrigerated.cpp
+	"refrigerated.h"
+
+1451603290 c:\users\user-pc\desktop\containers1\refrigerated.h
+	"heavy.h"
+
+1451603290 source:c:\users\user-pc\desktop\containers1\ship.cpp
+	"ship.h"
+
+1451493035 source:c:\users\user-pc\desktop\containers1\system.cpp
+	"system.h"
+
+1451603289 source:c:\users\user-pc\desktop\containers1\train.cpp
+	"train.h"
+
+1451603290 c:\users\user-pc\desktop\containers1\train.h
+	"transportation.h"
+
+1451603289 source:c:\users\user-pc\desktop\containers1\transportation.cpp
+	"transportation.h"
+
+1451603289 source:c:\users\user-pc\desktop\containers1\truck.cpp
+	"truck.h"
+
+1451603290 c:\users\user-pc\desktop\containers1\truck.h
+	"transportation.h"
+
+1451679051 source:c:\users\user-pc\desktop\containers1\systems.cpp
+	"systems.h"
+
+1451605469 c:\users\user-pc\desktop\containers1\systems.h
+	<iostream>
+	"refrigerated.h"
+	"ship.h"
+	"train.h"
+	"truck.h"
+	<fstream>
+

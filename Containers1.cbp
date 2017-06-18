@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Containers1" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Containers1" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Containers1" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="capacity.cpp" />
+		<Unit filename="capacity.h" />
+		<Unit filename="container.cpp" />
+		<Unit filename="container.h" />
+		<Unit filename="heavy.cpp" />
+		<Unit filename="heavy.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="normal.cpp" />
+		<Unit filename="normal.h" />
+		<Unit filename="refrigerated.cpp" />
+		<Unit filename="refrigerated.h" />
+		<Unit filename="ship.cpp" />
+		<Unit filename="ship.h" />
+		<Unit filename="systems.cpp" />
+		<Unit filename="systems.h" />
+		<Unit filename="train.cpp" />
+		<Unit filename="train.h" />
+		<Unit filename="transportation.cpp" />
+		<Unit filename="transportation.h" />
+		<Unit filename="truck.cpp" />
+		<Unit filename="truck.h" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
